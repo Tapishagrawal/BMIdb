@@ -1,0 +1,18 @@
+{
+    "userData":[
+        {
+            "id":1,
+            "username":"tapish",
+            "email":"tapish@gmail.com",
+            "password":"1234"
+        }
+    ],
+    "calculateData":[
+        {
+            "username":"tapish",
+            "weight":0,
+            "height":0,
+            "bmi":0
+        }
+    ]
+}
